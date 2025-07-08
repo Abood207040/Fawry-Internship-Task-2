@@ -22,3 +22,10 @@ This project is ideal for demonstrating foundational Java programming skills, in
 - `Services/` - Contains `MailService` and `ShippingService` (stubs)
 - `Main.java` - Demo and test class
 
+## 🖥 Screenshots
+
+### ✅ Example: Successful Paper Book Purchase
+![Screenshot Task 2](screenshots/Screenshot%20Task%201.png)
+
+---
+
