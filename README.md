@@ -25,7 +25,7 @@ This project is ideal for demonstrating foundational Java programming skills, in
 ## 🖥 Screenshots
 
 ### ✅ Example: Successful Paper Book Purchase
-![Screenshot Task 2](screenshots/Screenshot%20Task%201.png)
+![Screenshot Task 2](screenshots/Screenshot%20Task%202.png)
 
 ---
 
