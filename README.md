@@ -29,3 +29,7 @@ This project is ideal for demonstrating foundational Java programming skills, in
 
 ---
 
+## Technologies Used
+
+- Java
+
